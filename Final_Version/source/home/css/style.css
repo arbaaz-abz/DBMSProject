@@ -1,0 +1,51 @@
+   .loginbtn{
+     float:right;
+     margin-bottom: 10px;
+     margin-right: 10px;
+     background-color: #00b0ff;
+     right:150px;
+     top: 60px;
+     width: 180px;
+     font-size:8px;
+     text-align: center;
+   }
+   form{
+     padding:0px;
+     border-radius: 3px;
+   }
+   body, html {
+     height: 100%;
+     margin: 0;
+   }
+   .bg {
+     /* The image used */
+     background-image:url("image.jpg");
+     position: relative;
+     opacity: 0.75;
+
+     /* Full height */
+     height: 100%;
+
+     /* Center and scale the image nicely */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+  }
+  .caption {
+    position: absolute;
+    left: 0;
+    top: 10%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+
+  }
+
+  .border {
+    background-color:#00b0ff;
+    border: 20px;
+    color: #fff;
+    padding: 5 px;
+    font-size: 17px;
+    letter-spacing:13px;
+  }
