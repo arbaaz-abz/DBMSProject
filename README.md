@@ -1,4 +1,8 @@
-THIS IS SMALL-TIME DBMS PROJECT BASED ON BOOKING TICKETS FOR BUSES ONLINE . 
+THIS DBMS PROJECT BASED ON BOOKING TICKETS FOR BUSES ONLINE . 
+What's New ? : 
+1. E-Wallet 
+2. Print Tickets On The Go
+3. Credit/Debit Card Card 
 
 MY TEAMMATE : [ANKUSH] https://github.com/ankushop2/
 
