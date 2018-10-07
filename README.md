@@ -2,9 +2,7 @@ THIS DBMS PROJECT BASED ON BOOKING TICKETS FOR BUSES ONLINE .
 What's New ? : 
 1. E-Wallet 
 2. Print Tickets On The Go
-3. Credit/Debit Card Card 
-
-MY TEAMMATE : [ANKUSH] https://github.com/ankushop2/
+3. Credit/Debit Card 
 
 Requirements : 
 
@@ -20,5 +18,5 @@ How to get it running :
 1. Run the schema.sql file on your mysql server
 2. Open browser and run the index.html file on your apache server
 
-Thanks :)
+Goodluck :)
 
